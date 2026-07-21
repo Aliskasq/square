@@ -2,7 +2,7 @@
 import logging
 import os
 import httpx
-from config import get_api_key, get_model
+from config import get_api_key, get_model, switch_to_next_key, get_active_key_index, get_all_keys
 
 logger = logging.getLogger(__name__)
 
@@ -56,47 +56,73 @@ async def chat(user_id: int, text: str) -> str:
         messages.append({"role": "system", "content": system_prompt})
     messages.extend(history)
 
-    try:
-        async with httpx.AsyncClient() as client:
-            resp = await client.post(
-                "https://openrouter.ai/api/v1/chat/completions",
-                headers={
-                    "Authorization": f"Bearer {api_key}",
-                    "Content-Type": "application/json",
-                },
-                json={
-                    "model": model,
-                    "messages": messages,
-                },
-                timeout=120,
-            )
+    start_key_idx = get_active_key_index()
+    tried_keys = 0
+    total_keys = len(get_all_keys())
 
-            if resp.status_code != 200:
-                history.pop()  # remove failed user message
-                return f"❌ Выбранная модель недоступна (HTTP {resp.status_code})"
+    while tried_keys < total_keys:
+        current_key = get_api_key()
+        try:
+            async with httpx.AsyncClient() as client:
+                resp = await client.post(
+                    "https://openrouter.ai/api/v1/chat/completions",
+                    headers={
+                        "Authorization": f"Bearer {current_key}",
+                        "Content-Type": "application/json",
+                    },
+                    json={
+                        "model": model,
+                        "messages": messages,
+                    },
+                    timeout=120,
+                )
 
-            data = resp.json()
+                # Rate limited — try next key
+                if resp.status_code == 429:
+                    tried_keys += 1
+                    if switch_to_next_key():
+                        logger.info(f"Key rate limited, switching to key #{get_active_key_index() + 1}")
+                        continue
+                    history.pop()
+                    return "❌ Все ключи исчерпали лимит. Попробуй позже."
 
-            if "error" in data:
-                history.pop()
-                err_msg = data["error"].get("message", "unknown error")
-                return f"❌ Выбранная модель недоступна: {err_msg}"
+                if resp.status_code != 200:
+                    history.pop()
+                    return f"❌ Выбранная модель недоступна (HTTP {resp.status_code})"
 
-            choices = data.get("choices") or [{}]
-            msg = choices[0].get("message") or {}
-            content = msg.get("content") or ""
+                data = resp.json()
 
-            if not content:
-                history.pop()
-                return "❌ Выбранная модель недоступна (пустой ответ)"
+                if "error" in data:
+                    err_code = data["error"].get("code")
+                    if err_code == 429:
+                        tried_keys += 1
+                        if switch_to_next_key():
+                            logger.info(f"Key rate limited, switching to key #{get_active_key_index() + 1}")
+                            continue
+                        history.pop()
+                        return "❌ Все ключи исчерпали лимит. Попробуй позже."
+                    history.pop()
+                    err_msg = data["error"].get("message", "unknown error")
+                    return f"❌ Выбранная модель недоступна: {err_msg}"
 
-            history.append({"role": "assistant", "content": content})
-            return content
+                choices = data.get("choices") or [{}]
+                msg = choices[0].get("message") or {}
+                content = msg.get("content") or ""
 
-    except httpx.TimeoutException:
-        history.pop()
-        return "❌ Выбранная модель недоступна (таймаут)"
-    except Exception as e:
-        history.pop()
-        logger.error(f"AI error: {e}")
-        return f"❌ Выбранная модель недоступна: {e}"
+                if not content:
+                    history.pop()
+                    return "❌ Выбранная модель недоступна (пустой ответ)"
+
+                history.append({"role": "assistant", "content": content})
+                return content
+
+        except httpx.TimeoutException:
+            history.pop()
+            return "❌ Выбранная модель недоступна (таймаут)"
+        except Exception as e:
+            history.pop()
+            logger.error(f"AI error: {e}")
+            return f"❌ Выбранная модель недоступна: {e}"
+
+    history.pop()
+    return "❌ Все ключи исчерпали лимит. Попробуй позже."
