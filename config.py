@@ -14,19 +14,42 @@ OPENROUTER_MODEL = os.getenv("OPENROUTER_MODEL", "google/gemma-3n-e4b-it:free")
 # Build list of available keys
 _all_keys = [k for k in [OPENROUTER_API_KEY, OPENROUTER_API_KEY_2, OPENROUTER_API_KEY_3] if k]
 
+REQUESTS_PER_KEY = 48  # rotate after this many requests
+
 _runtime = {
     "api_keys": _all_keys,
     "active_key_idx": 0,
+    "key_request_count": 0,
     "model": OPENROUTER_MODEL,
 }
 
 
 def get_api_key() -> str:
+    """Get current key, auto-rotate if counter exceeded."""
     keys = _runtime["api_keys"]
     if not keys:
         return ""
+    # Auto-rotate on counter
+    if _runtime["key_request_count"] >= REQUESTS_PER_KEY:
+        _runtime["active_key_idx"] = (_runtime["active_key_idx"] + 1) % len(keys)
+        _runtime["key_request_count"] = 0
     idx = _runtime["active_key_idx"]
     return keys[idx % len(keys)]
+
+
+def count_request():
+    """Increment request counter for current key."""
+    _runtime["key_request_count"] += 1
+
+
+def force_rotate_key():
+    """Force rotate to next key (on 429)."""
+    keys = _runtime["api_keys"]
+    if len(keys) <= 1:
+        return False
+    _runtime["active_key_idx"] = (_runtime["active_key_idx"] + 1) % len(keys)
+    _runtime["key_request_count"] = 0
+    return True
 
 
 def get_all_keys() -> list[str]:
@@ -37,18 +60,14 @@ def get_active_key_index() -> int:
     return _runtime["active_key_idx"]
 
 
-def switch_to_next_key() -> bool:
-    """Switch to next key. Returns True if switched, False if no more keys."""
-    keys = _runtime["api_keys"]
-    if len(keys) <= 1:
-        return False
-    _runtime["active_key_idx"] = (_runtime["active_key_idx"] + 1) % len(keys)
-    return True
+def get_key_request_count() -> int:
+    return _runtime["key_request_count"]
 
 
 def set_api_key(key: str):
     _runtime["api_keys"] = [key] + [k for k in _runtime["api_keys"] if k != key]
     _runtime["active_key_idx"] = 0
+    _runtime["key_request_count"] = 0
     _save_env("OPENROUTER_API_KEY", key)
 
 

@@ -2,7 +2,7 @@
 import logging
 import os
 import httpx
-from config import get_api_key, get_model, switch_to_next_key, get_active_key_index, get_all_keys
+from config import get_api_key, get_model, force_rotate_key, count_request, get_active_key_index, get_all_keys
 
 logger = logging.getLogger(__name__)
 
@@ -56,12 +56,11 @@ async def chat(user_id: int, text: str) -> str:
         messages.append({"role": "system", "content": system_prompt})
     messages.extend(history)
 
-    start_key_idx = get_active_key_index()
     tried_keys = 0
     total_keys = len(get_all_keys())
 
     while tried_keys < total_keys:
-        current_key = get_api_key()
+        current_key = get_api_key()  # auto-rotates if counter >= 48
         try:
             async with httpx.AsyncClient() as client:
                 resp = await client.post(
@@ -77,11 +76,11 @@ async def chat(user_id: int, text: str) -> str:
                     timeout=120,
                 )
 
-                # Rate limited — try next key
+                # Rate limited — force rotate to next key
                 if resp.status_code == 429:
                     tried_keys += 1
-                    if switch_to_next_key():
-                        logger.info(f"Key rate limited, switching to key #{get_active_key_index() + 1}")
+                    if force_rotate_key():
+                        logger.info(f"Key #{get_active_key_index()} hit 429, rotated to key #{get_active_key_index() + 1}")
                         continue
                     history.pop()
                     return "❌ Все ключи исчерпали лимит. Попробуй позже."
@@ -96,8 +95,8 @@ async def chat(user_id: int, text: str) -> str:
                     err_code = data["error"].get("code")
                     if err_code == 429:
                         tried_keys += 1
-                        if switch_to_next_key():
-                            logger.info(f"Key rate limited, switching to key #{get_active_key_index() + 1}")
+                        if force_rotate_key():
+                            logger.info(f"Key hit 429, rotated to key #{get_active_key_index() + 1}")
                             continue
                         history.pop()
                         return "❌ Все ключи исчерпали лимит. Попробуй позже."
@@ -113,6 +112,8 @@ async def chat(user_id: int, text: str) -> str:
                     history.pop()
                     return "❌ Выбранная модель недоступна (пустой ответ)"
 
+                # Success — count request for rotation
+                count_request()
                 history.append({"role": "assistant", "content": content})
                 return content
 
