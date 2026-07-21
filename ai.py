@@ -1,5 +1,6 @@
 """OpenRouter AI chat."""
 import logging
+import os
 import httpx
 from config import get_api_key, get_model
 
@@ -9,6 +10,18 @@ logger = logging.getLogger(__name__)
 _histories: dict[int, list[dict]] = {}
 
 MAX_HISTORY = 40  # max messages in context
+
+# System prompt from Prompt.txt
+PROMPT_PATH = os.path.join(os.path.dirname(__file__), "Prompt.txt")
+
+
+def _load_system_prompt() -> str:
+    """Load system prompt from Prompt.txt."""
+    try:
+        with open(PROMPT_PATH, "r", encoding="utf-8") as f:
+            return f.read().strip()
+    except FileNotFoundError:
+        return ""
 
 
 def get_history(user_id: int) -> list[dict]:
@@ -36,6 +49,13 @@ async def chat(user_id: int, text: str) -> str:
     if len(history) > MAX_HISTORY:
         history[:] = history[-MAX_HISTORY:]
 
+    # Build messages with system prompt
+    messages = []
+    system_prompt = _load_system_prompt()
+    if system_prompt:
+        messages.append({"role": "system", "content": system_prompt})
+    messages.extend(history)
+
     try:
         async with httpx.AsyncClient() as client:
             resp = await client.post(
@@ -46,7 +66,7 @@ async def chat(user_id: int, text: str) -> str:
                 },
                 json={
                     "model": model,
-                    "messages": history,
+                    "messages": messages,
                 },
                 timeout=120,
             )
