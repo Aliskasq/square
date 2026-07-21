@@ -7,11 +7,12 @@ load_dotenv()
 TG_BOT_TOKEN = os.getenv("TG_BOT_TOKEN", "")
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
 OPENROUTER_API_KEY_2 = os.getenv("OPENROUTER_API_KEY_2", "")
+OPENROUTER_API_KEY_3 = os.getenv("OPENROUTER_API_KEY_3", "")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
 OPENROUTER_MODEL = os.getenv("OPENROUTER_MODEL", "google/gemma-3n-e4b-it:free")
 
 # Build list of available keys
-_all_keys = [k for k in [OPENROUTER_API_KEY, OPENROUTER_API_KEY_2] if k]
+_all_keys = [k for k in [OPENROUTER_API_KEY, OPENROUTER_API_KEY_2, OPENROUTER_API_KEY_3] if k]
 
 _runtime = {
     "api_keys": _all_keys,
