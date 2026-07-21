@@ -157,4 +157,5 @@ QUALITY CHECK
 - No broken Unicode
 - No indicator abbreviations
 - Different wording every time
+- Output English only. Never mix alphabets or generate corrupted Unicode characters.
 - Return ONLY the finished post.
