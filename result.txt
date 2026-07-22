@@ -1,0 +1,372 @@
+
+================================================================================
+COIN: Ace
+================================================================================
+
+--- cohere/north-mini-code:free (33.9s) ---
+$ACE 🤔 I feel the hourly sell pressure is still winning, OI is dropping and CMF shows strong selling. I'm shorting ACE. Entry around $0.08893, 🤑 target $0.0830 (near the bull FVG), ⛔️ stop loss just above $0.092. Let's see if the 15m squeeze can flip first. Worth watching.
+
+--- google/gemma-4-26b-a4b-it:free (6.2s) ---
+$ACE
+
+I'm leaning toward a cautious long here. Even though the trend is struggling, there's some serious compression building on the hourly chart and I see a potential reversal forming. Watching for a bounce near the liquidity level. 
+
+Entry around 0.0885 
+🤑 Target 0.0965
+🚫 Stop loss 0.0860
+
+The selling pressure is fading and momentum seems to be shifting back toward the buyers. Let's see. 👀
+
+--- google/gemma-4-31b-it:free (15.5s) ---
+[MAX RETRIES]
+
+--- google/lyria-3-clip-preview (1.2s) ---
+[HTTP 400]
+
+--- google/lyria-3-pro-preview (1.1s) ---
+[HTTP 400]
+
+--- nvidia/nemotron-3-nano-30b-a3b:free (35.4s) ---
+$ACE I'm leaning toward a long, entry around 0.0892, TP near 0.0923, stop just below 0.0865 💡 Funding negative and open interest sliding, so there's room but keep it tight, watching for a break above 0.0905 to confirm. Not chasing, just testing waters.
+
+--- nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free (44.0s) ---
+$ACE – Long, I’d hop in around 0.0889, aiming for 0.0902, with a stop at 0.0865. The AI coin is catching bids again, and the chart shows a bounce from oversold levels. 🤔 I feel the dip could be a buying opportunity. Let’s see if it holds, and I’ll watch for a break above 0.0905. 💵 💸
+
+--- nvidia/nemotron-3-super-120b-a12b:free (78.2s) ---
+$ACE I'm leaning short here, entry near $0.089, targeting $0.084 if the bearish momentum holds, stop above $0.093 to protect against a bounce. The 1H shows a death cross, open interest is falling and internal trend stays bearish, though a bullish fair value gap sits just below price so a quick bounce can't be ruled out. Let's see how it plays out. 📉
+
+--- nvidia/nemotron-3-ultra-550b-a55b:free (88.1s) ---
+$ACE — 15m bull FVG sitting right at 0.0873-0.0902 with StochRSI oversold and CMF flipping to strong buying. 1H still messy though — SuperTrend bearish, heavy selling pressure, death cross holding. RSI-Mom divergence on the hourly is the only thing keeping me curious. Gaming/AI narrative could spark a relief bounce but structure says don't trust it. Small long near 0.0885-0.0890, 🎯 0.092 (15m bear OB / 1H bear FVG), ⛔️ under 0.0863 EQL. Let's see if buyers actually defend this 👀
+
+--- nvidia/nemotron-3.5-content-safety:free (2.1s) ---
+User Safety: safe
+
+--- nvidia/nemotron-nano-12b-v2-vl:free (3.9s) ---
+$ACE showing subtle shift — fresh balance emerges  
+Confused trend (🤔) — mixed signals everywhere. Price flips supertrend, but RSI-Mom divergence flickers (🚨). CMF says "buy" (💰), MFI says "sell" (🔴). OI tanks — perfection often dies quietly. Swing bullish, structure bearish — curious combo. Watch consolidation near $0.09 — breakout could squeeze old gaps (📈). Or panic spills over (🚫). Waiting for candle close to pick side. 🤲 Not favoring yet.
+
+--- nvidia/nemotron-nano-9b-v2:free (18.2s) ---
+$ACE looks grabbable around $0.089 with a dash of caution—price just chopped 0.9% on the 15m after a shaky 1H with bearish MACD divergence. I’d scalp a pullback to the $0.087 SuperTrend flip or the $0.086345 liquidity pool. TP at $0.0935 (bull flag angle) or $0.092 (OBV support). Stop below $0.0845 where the BOS bear cluster sits.  
+
+🚨 The 1H shows internal weakness but RSI-Mom divergence hinted at hidden strength… but the SMC’s bearish BOSes are fresh. Don’t chase the revenge rally.  
+
+Let’s see.
+
+--- openai/gpt-oss-20b:free (34.3s) ---
+$ACE looks like it’s in a tight squeeze – buyers still biting but sellers keeping the floor tight.  
+Short near 0.0895, set 🤑 TP at 0.0875, a small cushion with 🛑 SL at 0.0910.  
+Careful, though – the internal trend is bearish, but a rally back above 0.090 could snap it. Time will tell.
+
+--- openrouter/free (5.2s) ---
+$ACE
+
+I'm leaning toward a short here. OI is falling and the 1H SuperTrend just flipped bearish after a brutal 24h dump. Price is stuck below EMA7/25, and CMF on the 15m just turned south again.
+
+🎯 TP: 0.0855  
+⛔️ SL: 0.0915  
+
+Not chasing the bounce — this feels like a relief rally in a downtrend. Let's see.
+
+--- poolside/laguna-m.1:free (11.8s) ---
+$ACE
+
+This looks like a tight squeeze brewing after that heavy sell-off 🤔 Oversold on the 15m with StochRSI in the dumps while CMF flips to buying - could be a dead cat bounce playing out. The bull FVG at 0.087-0.090 sits right under current price so I'm watching for a pop into that zone.
+
+Long around 0.0885 🟢 taking profit near 0.0925 💰 but stops go under 0.0865 ⛔️ Too early to tell if this is real or just relief before more pain.
+
+--- poolside/laguna-s-2.1:free (5.0s) ---
+$ACE
+
+I'm leaning toward a short here — this thing is bleeding out and OI falling 7.7% shows weak hands bailing. Price sitting right under that bear OB at 0.0928 and the 1H SuperTrend still red, so any relief rally feels like a trap.
+
+🎯 TP: 0.0865  
+⛔️ SL: 0.0935
+
+Not chasing the bounce, waiting for it to roll over again. 🤔
+
+--- poolside/laguna-xs-2.1:free (25.7s) ---
+$ACE getting interesting here 🚨
+
+TTM squeeze still on 1H with compression building - something's gotta give soon. Price sitting right between bearish order blocks above and a potential bounce off those bullish ones below. 
+
+I'm seeing mixed vibes - 15m just flipped bullish on SuperTrend but 1H still bearish with OI falling hard. Funding's negative which could support a short squeeze.
+
+Planning to watch $0.092-$0.093 as key resistance. If it breaks clean with volume, I'd go long toward $0.098-$0.10 area. Stop loss under $0.086 just in case bearish bias returns.
+
+Not my typical setup but the squeeze + conflicting timelines makes this worth watching. Patience pays. 👀
+
+
+================================================================================
+COIN: Dexe
+================================================================================
+
+--- cohere/north-mini-code:free (74.1s) ---
+$DEXE 🤔 I think it's still echoing the DeFi momentum but the price is hovering near 3.90 after a brutal run. The bearish momentum looks strong, yet the recent squeeze could trap shorts, so I'm leaning toward a short entry around 3.90, take profit at 3.70, and stop loss just above 4.50. If it breaks above 4.0 I'd consider a long, but for now the bias is down. Worth watching 📉
+
+--- google/gemma-4-26b-a4b-it:free (14.4s) ---
+$DEXE
+
+Price is struggling hard right now and the selling pressure is increasing. Honestly, the 15m chart looks like a squeeze is building, but the trend is still bearish. I'm leaning toward a short if we see a relief rally toward the 4.50 zone. 
+
+Short
+Entry around 3.93
+🤑 TP 4.50
+🛑 SL 3.75
+
+Volatility is expanding and the trend still looks bearish to me. Be careful with this one. ⚠️
+
+--- google/gemma-4-31b-it:free (15.5s) ---
+[MAX RETRIES]
+
+--- google/lyria-3-clip-preview (1.1s) ---
+[HTTP 400]
+
+--- google/lyria-3-pro-preview (1.5s) ---
+[HTTP 400]
+
+--- nvidia/nemotron-3-nano-30b-a3b:free (43.4s) ---
+$DEXE is still in free‑fall after that massive drop. I’m leaning toward a short, entry around 3.92. Take profit near 3.84 where the last discount zone sits, and stop a bit above 3.99 to protect. 🎯 ⛔️ Watch the 3.80 mark for a clean exit, and keep an eye on volume spikes. ⚠️
+
+--- nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free (67.6s) ---
+$DEXE short at 3.93, TP 3.86, SL 4.13. Open interest climbing, balanced books but price looks weak after a steep drop, and the recent low suggests further downside. AI coins catching bids again but the chart still points lower – wait for a break of 4.13. 🤔
+
+--- nvidia/nemotron-3-super-120b-a12b:free (120.4s) ---
+$DEXE has been smashed, price lingering near the lower band while funding stays negative and open interest keeps climbing. Sellers appear to have the edge, but the momentum oscillator is deep in oversold territory hinting at a possible short‑term bounce. I'm leaning short with entry near 3.88, aiming for 3.45 if the downtrend grabs hold, and placing a stop just above 4.20 to guard against a sharp reversal. 📉 Let's see how the price reacts.
+
+--- nvidia/nemotron-3-ultra-550b-a55b:free (27.2s) ---
+$DEXE looking like a coiled spring on the 15m with that BB squeeze firing 39 bars straight, but the 1H structure is ugly — death cross locked in, ADX 63 screaming trend strength, and price kissing the weak low at 3.86. RSI 20 on the hourly says oversold, MACD hist trying to turn, but CMF still deep negative and OBV keeps distributing. Could get a relief pop off the squeeze, but every rally gets sold into those bear OBs overhead starting 17% up. If I'm playing the bounce, tight risk below the low. Short entry around 3.95 if it pokes the 15m SuperTrend, stop ⛔️ 4.10, target 🤑 3.60. This thing moves 33% ATR daily — size small. 📉👀
+
+--- nvidia/nemotron-3.5-content-safety:free (2.5s) ---
+User Safety: safe
+
+--- nvidia/nemotron-nano-12b-v2-vl:free (3.2s) ---
+$DEX looks like it’s caught in a bearish squeeze but OI’s spiking. Short interest is rising fast—entry at $3.85 with TP $3.70 and SL $4.00. Watch the $3.86 weak low. ADX says trend’s strong, but CMF’s negative. Let’s see if bears drag it south.
+
+--- nvidia/nemotron-nano-9b-v2:free (19.7s) ---
+$DEXE at $3.883 looks like a prime short candidate, especially after that 8.6% chop last hour. The chart’s screaming “bear” with EMA7/25/99 all crushing the price, and the SMC weak low at 3.86 is right under us. If it ekes out to 3.86, that could be the floor for now—assuming bears keep stacking.  
+
+Entry: $3.883  
+TP1: $3.85 (stronger bounce rejection at 3.86)  
+SL: $4.13 (breach of recent resistance)  
+
+This isn’t a free lunch—ODI’s still rising, so sudden poka-poka moves could sneak in. But the structure screams “lower for longer” till a breakout clears those SMC orders. 📉 Let’s see if it actually hits that 3.86 zone.
+
+================================================================================
+COIN: Dodox
+================================================================================
+
+--- cohere/north-mini-code:free (159.4s) ---
+$DOX 🤔 I think the crowd stays short (62% short, 62% top traders long) and a potential squeeze is building. The recent structure shows price holding above the short‑term moving average, buyers stay in control, and momentum is positive. The recent price action reclaimed the 0.01875 level, and the area around 0.01593‑0.01656 looks like solid footing. With open interest stable and funding negative, the market is primed for a breakout. I’m leaning toward a long entry near 0.01885, target 0.0195 🤑 and stop loss just under 0.0182. DeFi showing real life here, protocol actually has numbers behind it. Not chasing this one. Worth watching. Let's see. 🎯
+
+--- google/gemma-4-26b-a4b-it:free (51.3s) ---
+$DODO
+
+👀 $DODO looks like a massive squeeze is brewing. While the crowd is heavily shorting, the smart money is actually leaning long here. I'm considering a long play since the 15m chart shows a squeeze building. 📈
+
+Entry around 0.0188 🎯
+Target 0.0206 🤑
+Stop loss 0.0175 🛑
+
+Volatility is expanding and the breakout could rip. Let's see. 🚀
+
+--- nvidia/nemotron-3-nano-30b-a3b:free (0.4s) ---
+[ERROR: Upstream error from Nvidia: ResourceExhausted: Worker local total request limit reached (32/32)]
+
+--- nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free (16.5s) ---
+$DOGE Long on the 1H pullback. Entry near 0.01880, TP at 0.02524, SL below 0.015614. Bullish momentum building despite short‑term dip, so size small and watch a break above 0.0205. 🤔 I think 💰 current price 🎯 target 🛑 stop loss
+
+--- nvidia/nemotron-3-super-120b-a12b:free (38.0s) ---
+$DODOX I'm leaning long here, entry around 0.0188, targeting 0.0208 with a stop below 0.0160. The crowd is short and funding negative, setting up a squeeze play. Smart money is already long, so momentum could kick in if price holds above the 0.0185 area. 🚀⛔️ Let's see.
+
+--- nvidia/nemotron-3-ultra-550b-a55b:free (29.8s) ---
+$DODO 1H structure flipped bullish with SuperTrend holding and ADX/ATR expanding together — breakout combo 📈 15m BB squeezing tight while crowd stays stubbornly short (62%) and smart money sits long. Negative funding adds fuel. Internal CHoCH printed 10 bars ago on 1H, 15m just made a bull BOS. Feels like a squeeze brewing above equilibrium.
+
+Long if price clears 0.0194 clean. Entry around 0.0195. 🎯 0.0215 / 0.0235. ⛔️ 0.0176 (1H SuperTrend). Let's see 👀
+
+--- nvidia/nemotron-nano-12b-v2-vl:free (152.2s) ---
+[ERROR: Upstream idle timeout exceeded]
+
+--- nvidia/nemotron-nano-9b-v2:free (86.9s) ---
+$DODO  
+🤔 I’m leaning long but wary—smart money’s in the long camp, but the crowd’s short and funded rates are bleeding red. Price’s dancing above EMA7/25 but the 15m MACD just flipped bearish. That OBV divergence in the last hour? Classic short-term trap sign. I’d bite the bullet at $0.0188 with a 🦄 on a bounce to $0.0205. If it bleeds past $0.0175, the stop hunts begin. ⛔️  
+
+Why? Bulls here claim the wider frame’s clean, with EMA golden crosses and rising ADX. Shorts are screaming, maybe too loudly. 🤷♂️ Let theFunding rate bleed shorten their strides. Worst case, it pivots—take half profit fast.  
+
+💰 Current price action screams indecision. If it kisses $0.021, I’ll celebrate. But if it cracks below $0.017, kiss your stubborn longs goodbye. 😤
+
+--- openai/gpt-oss-20b:free (46.8s) ---
+$DODOX Long, I feel the 15‑min golden cross still lingers, but the super‑Trend stays bearish. Entry at about $0.01884 (above the recent 15‑min SMA). If it clears $0.0192, set TP near $0.0200. ⛔️ Stop around $0.0185 for a tight buffer. 🎯💸
+
+--- openrouter/free (23.1s) ---
+$DODOX looking like a coiled spring here 🤔 crowd heavily short at 62% while top traders sit 62% long — classic squeeze fuel. 1H flashing a breakout combo with ADX rising and ATR expanding at the 92nd percentile, but 15m BB squeeze just triggered and SuperTrend flipped bearish. That internal CHoCH 10 bars ago on the hourly gives me some confidence buyers are trying. 
+
+Leaning long near 0.0188 with a tight stop under the 15m bull OB at 0.0169 ⛔️ 0.0168. Targeting the 1H equilibrium at 0.0204 🤑 0.0204 — about 8.5% upside. Negative funding helps the hold. Let's see if the smart money wins this one 👀
+
+--- poolside/laguna-m.1:free (29.9s) ---
+$DOOX
+
+Retail's loaded with shorts while the smart money's long - that's my kind of setup for a squeeze. Price just flipped bullish on the daily timeframe but showing fatigue on 15m. I'm looking long near $0.0188 💡 Target the $0.0205-$0.021 area 🚫 Stop around $0.0175 if momentum fades. Classic retail short trap with top traders loading up.
+
+--- poolside/laguna-s-2.1:free (44.5s) ---
+$DODOX
+
+Crowd's short but smart money's long — that's the kind of setup I like to fade. Top traders are net long while retail is crowded short, and funding is deeply negative. On the 15m, TTM squeeze is firing and price is sitting right at equilibrium. I'm leaning long here, watching for a break above 0.01940 with a push toward 0.02199. Stop me out below 0.01731 and I'm done for the session. 🤑
+
+Long @ 0.01884
+🤑 TP: 0.02199
+⛔️ SL: 0.01731
+
+Worth watching — but keep size light, this is still meme territory.
+
+--- poolside/laguna-xs-2.1:free (26.3s) ---
+$DODO 🚨 Squeeze setup brewing on 15m while 1H trend flipped bullish 11 bars ago. Crowd is short 62% but top traders are long - classic squeeze risk! Price sitting right at equity zone ($0.0188) with TTM squeeze just triggered.
+
+I'm leaning toward a long play here - if we break that 0.020 resistance with volume, the 0.025 swing high is in play. 
+
+Long entry: $0.0188-0.019
+🎯 Take profit: $0.022-$0.025
+⛔️ Stop loss: $0.0175 (below recent order blocks)
+
+Funding still negative - perfect for longs. Let's see if the smart money conviction finally forces those shorts to cover. Patience pays.
+
+
+================================================================================
+COIN: Ena
+================================================================================
+
+--- cohere/north-mini-code:free (88.8s) ---
+$ENA is chopping near 0.0883 with the TTM squeeze flashing green, OI spiking and a crowd already heavy long. I’m leaning toward a long if price slides back to the 0.0865‑0.0868 zone — that’s where those order blocks sit and the chart tends to bounce. If it cracks, I’d set a ⛔️ stop loss just below 0.0840 and 🤑 take profit at 0.0900 for a reasonable risk‑reward. Worth watching. Let’s see. 💰🛑
+
+--- google/gemma-4-26b-a4b-it:free (24.9s) ---
+[MAX RETRIES]
+
+================================================================================
+COIN: Ena
+================================================================================
+
+--- google/gemma-4-26b-a4b-it:free (20.5s) ---
+[FAILED]
+
+--- nvidia/nemotron-3-nano-30b-a3b:free (20.2s) ---
+[FAILED]
+
+--- nvidia/nemotron-3-super-120b-a12b:free (76.6s) ---
+$ENA I'm leaning long here. Price is holding above the short‑term average and momentum is building, with buying pressure showing up on volume. I'd look to enter around 0.0888, target 0.0925, and keep a stop near 0.0855 just in case the crowd unwinds. 🚀
+
+--- nvidia/nemotron-3-ultra-550b-a55b:free (24.4s) ---
+$ENA leaning long but cautious 🤔 1H squeeze fired, SuperTrend holding, and smart money long 60% — yet 15m MACD just flipped negative with crowd heavily long at 64%. That's a squeeze trap waiting. I'd wait for a pull toward the 0.0873 bull OB rather than chase. Entry 0.0875 🤑 TP 0.0915 ⛔️ SL 0.0858. DeFi rotation picking up but short-term exhaustion real. Patience pays.
+
+--- nvidia/nemotron-nano-9b-v2:free (23.7s) ---
+🚨 $ENA feels like a coiled spring ready to snap. Entry at 0.0883 with a SL at 0.0862 to catch the stop cascade. TP to 0.0895 if it flips the 0.089 handle. Top traders are locked in long positions—smart money’s building here, but the crowd’s still anxious. Might break or clutch, but the EMA7 trendline’s holding. 💸  
+
+Recent swing lows keep stacking at 0.086-0.087—could be a floor if it holds. Funds are low (0.005%), so no huge short squeeze risk yet. If it breaks above 0.089, look for 0.092 next. Just don’t let greed override the stop. Patience wins here. ⛔️💸  
+
+Whatcha got for 0.089? If it clears, this could run. If not, we’re looking at a throwback to 0.085. Cross your fingers. Let’s see.
+
+--- openai/gpt-oss-20b:free (39.0s) ---
+$ENA Long 🚀  
+Entry near 0.08830, TP 💵 at 0.08950, SL ⛔️ at 0.08750. Open interest up 7.9%—new positions loading, but 64% long means a squeeze could hit if momentum reverses. Smart money bullish, yet support at 0.0875 looks solid. Momentum easing slightly, but price is still above key EMAs, so a bounce is plausible. Keep an eye on the next move—time will tell.
+
+--- poolside/laguna-m.1:free (20.2s) ---
+[FAILED]
+
+--- poolside/laguna-s-2.1:free (20.3s) ---
+[FAILED]
+
+--- poolside/laguna-xs-2.1:free (20.6s) ---
+[FAILED]
+
+
+================================================================================
+COIN: Hype
+================================================================================
+
+--- google/gemma-4-26b-a4b-it:free (20.4s) ---
+[FAILED]
+
+--- nvidia/nemotron-3-nano-30b-a3b:free (56.3s) ---
+$HYPE I feel bullish but wary, going Long. Entry around $58.5, I'd watch for a dip to $58.3‑$58.4 before entry. First target near $62 if it breaks the 60.7 bear OB, stop under $57.9 🛑. Let's see how it rides soon. 🚀
+
+--- nvidia/nemotron-3-super-120b-a12b:free (96.3s) ---
+$HYPE is under its short‑ and medium‑term averages, death cross visible, SuperTrend bearish and trend strength rising. Money flow shows steady selling, price testing the recent low zone. I’m leaning short near 58.44, stop above nearby resistance around 60.9 (⛔️), target the weak low near 57.9 (💸). Funding slightly negative, OI flat, top traders still long – a bounce could interrupt the slide; if it holds under 58.8 more downside may follow. Let's see.
+
+--- nvidia/nemotron-3-ultra-550b-a55b:free (2.0s) ---
+[ERROR: Upstream error from Nvidia: ResourceExhausted: Worker local total request limit reached (32/32)]
+
+--- nvidia/nemotron-nano-9b-v2:free (42.8s) ---
+$HYPE at 58.49 seems stuck in a tight bearish groove – top traders are long, but the chart don’t believe ’em. 🌑 The EMA7/25 death cross 40 bars back and SuperTrend flipped right here at 59.21 – classic text-book sell-off pattern. But here’s the kicker: price is flirting with that 58.28 BB lower band, which usually sucks traders in like a magnet.  
+
+If we pop below 58.20, this could ride straight to 57.50. 🎯 That’d be my TP – sharp and sweet. ⛔️ Stop? No room for error here – put it just above 62.50, where those SOL/BOS bears are sitting. Risk/reward’s clean at ~3:1.  
+
+Not gonna fight the ocean, though. If the bounce holds and RSI pops above 45 tomorrow, maybe sack it off. 🤔 Either way, the noise is loud – sleep on this or trade small. Just my 2¢.
+
+--- openai/gpt-oss-20b:free (20.2s) ---
+[FAILED]
+
+--- poolside/laguna-m.1:free (20.2s) ---
+[FAILED]
+
+--- poolside/laguna-s-2.1:free (7.4s) ---
+$HYPE
+
+I'm leaning toward a bounce here — RSI oversold on 1H, smart money still long, and price sitting right above that weak low at 57.93. But the trend's clearly down and OBV's still distributing.
+
+🤑 TP: 60.75 (first bear OB)  
+⛔️ SL: 57.50  
+
+Not chasing this one, just watching for a bounce into resistance. Time will tell.
+
+--- poolside/laguna-xs-2.1:free (16.2s) ---
+$HYPE 📉  
+I'm leaning toward shorting this one. Price is stuck below key EMAs, bearish MACD cross, and RSI is screaming oversold at 27.4. SuperTrend flipped bearish hard, ADX shows strong trend, and OBV is in full distribution mode.  
+
+Entry: Around $58.50  
+🎯 Take profit: $57.93 (weak low)  
+🛑 Stop loss: $60.75 (bearish order block)  
+
+Smart money’s long but retail’s getting crushed here. If it breaks below $58, could retest FVG at $59.08-$59.41. Patience pays. 🚀
+
+
+================================================================================
+COIN: Re
+================================================================================
+
+--- google/gemma-4-26b-a4b-it:free (20.3s) ---
+[FAILED]
+
+--- nvidia/nemotron-3-nano-30b-a3b:free (33.4s) ---
+$REU I'm leaning toward a long play — price is stuck near 0.466 with the broader trend still pointing up 🤔 entry around 0.4665 🎯 target could reach 0.4815 and I’d park ⛔️ stop near 0.455 🤑 small bet, volume is picking up and the chart looks ready to roll let’s see
+
+--- nvidia/nemotron-3-super-120b-a12b:free (23.4s) ---
+$REU Looks like the higher timeframe is still bullish even though the 15m shows some selling pressure. I'm leaning long around $0.466 with a target near $0.50 and a stop just below $0.44. Let's see how it plays out. 🚀
+
+--- nvidia/nemotron-3-ultra-550b-a55b:free (0.9s) ---
+[ERROR: Upstream error from Nvidia: ResourceExhausted: Worker local total request limit reached (32/32)]
+
+--- nvidia/nemotron-nano-9b-v2:free (28.8s) ---
+$REU 💡 maybe. Short if it bounces again, but look for a tight pullback first. Entry around 0.465 if it dips to the SMC support zone. TP at 0.48 (lower than the weak high of 0.4865 to play it safe). SL at 0.42 or 0.41 if it breaks below the strong OB blocks. 🛑 Risk of a quash if the momentum flips. Let’s see what the bulls do next.
+
+--- openai/gpt-oss-20b:free (24.5s) ---
+$RE  
+🤔 I feel the 15m 25EMA just bent so it’s a bullish pivot.  
+Long at 0.467, TP near 0.475 💸, SL at 0.456 🛑.  
+Some selling volume but up‑trend still in place—let’s see.
+
+--- poolside/laguna-m.1:free (20.2s) ---
+[FAILED]
+
+--- poolside/laguna-s-2.1:free (20.7s) ---
+[FAILED]
+
+--- poolside/laguna-xs-2.1:free (17.4s) ---
+$REZ USDT
+
+Honestly, this chart is giving me pause right now. Price is sitting at 0.4665 with RSI at 75.8 on the 1H - we've been here before when RSI was around 51 and it dropped hard.
+
+The 15m shows distribution with bearish divergence on RSI and MACD just flipped negative. SuperTrend is still green but barely - only 4.8% from the line now.
+
+I'm seeing buying pressure fading on the 15m while the 1H momentum is slowing. Open interest is up 23.5% which means new positions are opening - could be setting up for a trap.
+
+If price reaches 0.49 resistance, I'd short with stop at 0.51. Target 0.43 for downside. Otherwise, waiting for 15m confirmation before considering long.
+
+Not chasing this one - patience pays. ⚠️
