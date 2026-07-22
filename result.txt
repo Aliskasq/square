@@ -241,8 +241,6 @@ $ENA is chopping near 0.0883 with the TTM squeeze flashing green, OI spiking and
 [MAX RETRIES]
 
 ================================================================================
-COIN: Ena
-================================================================================
 
 --- google/gemma-4-26b-a4b-it:free (20.5s) ---
 [FAILED]
