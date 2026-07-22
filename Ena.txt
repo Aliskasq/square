@@ -1,0 +1,155 @@
+📊 *ENAUSDT* — `$0.088300`
+💰 Funding: `0.0050%`
+📊 [MARKET POSITIONING — OI, Long/Short Ratio, Taker Volume]
+Open Interest: 613,023,231 contracts | 📈 OI RISING +7.9% (new positions opening — volatile move coming)
+Accounts L/S: ⚠️ CROWD IS LONG (64%) — squeeze risk DOWN
+Top Traders: 🟢 TOP TRADERS LONG (60%) — smart money bullish
+Taker Volume: ⚪ Balanced (53% buy / 47% sell)
+
+=== 1H ===
+Price: 0.088290 | Change: -0.47% | 24h: +1.66%
+
+1. EMA: 7=0.087934(↗+10.6%/50bars) > 25=0.086860(↗+8.7%) > 99=0.084034(↗+3.9%)
+   Price>EMA7: 39/50 candles | Price>EMA25: 50/50 | Price>EMA99: 50/50 | EMA7×25 golden cross 49 bars ago
+
+2. MACD: DIF=0.000801 > DEA=0.000770 | Hist=0.000031 GROWING
+   Cross 2 bars ago | Hist range 50bars: [-0.000175..0.000425] avg=0.000082 | Zero crosses: 2
+   Accel=-0.000055 | TRENDING
+
+3. OBV: Accumulation (>SMA20) | ROC(10)=+5.5% | ROC(50)=+255.1% | Trend 50bar: rising
+   Price-OBV 50bar: NO DIVERGENCE (confirmed)
+
+4. RSI: 62.0 NORMAL | Trend 50bar: stable (65.5→59.3→64.1→66.0→62.0)
+   50bar range: [55.1..77.1] avg=64.8 | OB bars: 11/50 | OS bars: 0/50
+
+5. BB: Upper=0.088672 Mid=0.087094 Lower=0.085516 | %B=0.879 | Width=3.6%
+   Squeeze: NO | Expanding: YES | Walking upper band: 12/50 candles
+   TTM Squeeze: 🔥 FIRED — breakout initiated!
+
+6. SuperTrend: 🟢 BULLISH @ 0.085465 | Flipped 46 bars ago | Price +3.3% from ST line
+   50bar: 1 flips | Bullish 46/50 bars | TRENDING
+
+7. ADX: 35 MODERATE TREND | DI+: 23.7 > DI-: 12.4 | ADX rising
+   50bar: avg=33 max=45
+
+8. StochRSI: K=64 D=60 NORMAL | K trend 15bar: rising
+   15bar: OB bars=0/15 | OS bars=3/15 | K/D crosses: 2 | TRENDING
+
+9. MFI: 60 BULLISH | Trend 20bar: falling | Avg=60
+   20bar: OB bars=0/20 | OS bars=0/20
+
+10. CMF: 0.187 STRONG BUYING | Trend 30bar: falling | Avg=0.236
+   Positive bars: 30/30 (buying dominant)
+
+11. CCMI: 27.4 | Signal: 23.7 | Cross: ABOVE ↑
+   Multi-period momentum (5/10/20) volatility-weighted
+
+12. IMI: 60.2 | MA(6): 61.4 | Normal
+   Candle body pressure (close vs open) — what RSI doesn't see
+
+13. RSI-Mom: 49.0 (RSI of momentum(10) — 2nd derivative of price)
+   🟢 BULLISH DIVERGENCE: Price LL (0.086430->0.086140) but RSI-Mom HL (38.1->44.7), 6 bars ago
+   🔴 BEARISH DIVERGENCE: Price HH (0.087360->0.087490) but RSI-Mom LH (61.4->51.9), 11 bars ago
+
+14. ATR: 0.00105872 (1.20% of price) | Trend: stable | Percentile: 64% of 50bar range
+   STABLE → | ADX rising: normal
+
+📐 SMC:
+📐 SMC [1H]:
+Swing Trend: BULLISH (last: BOS 45 bars ago)
+Internal Trend: BULLISH (last: BOS 4 bars ago)
+Weak High: 0.088990 (0.8% away) | Strong Low: 0.078300 (11.3% away)
+Recent Structures:
+  Int BOS Bear @ 0.078920 (54 bars ago)
+  Int CHoCH Bull @ 0.081050 (48 bars ago)
+  Swing BOS Bull @ 0.083090 (45 bars ago)
+  Int BOS Bull @ 0.083730 (33 bars ago)
+  Int BOS Bull @ 0.087970 (4 bars ago)
+Order Blocks:
+  Int 🟦 Bull OB: 0.086010-0.086720 (2.2% below)
+  Int 🟦 Bull OB: 0.081840-0.082460 (7.0% below)
+  Swing 🟦 Bull OB: 0.078300-0.079360 (10.7% below)
+  Int 🟦 Bull OB: 0.078300-0.079360 (10.7% below)
+  Int 🟦 Bull OB: 0.076790-0.078210 (12.2% below)
+Fair Value Gaps:
+  Bull FVG: 0.086720-0.087340 (1.4% away)
+  Bull FVG: 0.081780-0.082640 (6.9% away)
+  Bull FVG: 0.079930-0.080760 (9.0% away)
+Zone: Equilibrium (H:0.088990 L:0.078300 EQ:📊 *ENAUSDT* — `$0.088280`
+💰 Funding: `0.0050%`
+📊 [MARKET POSITIONING — OI, Long/Short Ratio, Taker Volume]
+Open Interest: 613,118,878 contracts | 📈 OI RISING +7.9% (new positions opening — volatile move coming)
+Accounts L/S: ⚠️ CROWD IS LONG (64%) — squeeze risk DOWN
+Top Traders: 🟢 TOP TRADERS LONG (60%) — smart money bullish
+Taker Volume: ⚪ Balanced (53% buy / 47% sell)
+
+=== 15m ===
+Price: 0.088260 | Change: +0.34% | 24h: +1.38%
+
+1. EMA: 7=0.088328(↗+1.9%/50bars) > 25=0.087879(↗+1.6%) > 99=0.086766(↗+1.5%)
+   Price>EMA7: 34/50 candles | Price>EMA25: 36/50 | Price>EMA99: 50/50 | EMA7×25 golden cross 18 bars ago
+
+2. MACD: DIF=0.000359 < DEA=0.000360 | Hist=-0.000001 TURNED_NEGATIVE
+   Cross 1 bars ago | Hist range 50bars: [-0.000108..0.000151] avg=0.000020 | Zero crosses: 3
+   Accel=0.000038 | TRENDING
+
+3. OBV: Accumulation (>SMA20) | ROC(10)=+14.7% | ROC(50)=+53.1% | Trend 50bar: rising
+   Price-OBV 50bar: NO DIVERGENCE (confirmed)
+
+4. RSI: 56.2 NORMAL | Trend 50bar: stable (64.0→65.9→65.5→52.3→56.2)
+   50bar range: [40.6..68.1] avg=55.8 | OB bars: 0/50 | OS bars: 0/50
+
+5. BB: Upper=0.089057 Mid=0.087994 Lower=0.086931 | %B=0.625 | Width=2.4%
+   Squeeze: NO | Expanding: NO | Walking upper band: 9/50 candles
+   TTM Squeeze: No squeeze
+
+6. SuperTrend: 🟢 BULLISH @ 0.086986 | Flipped 16 bars ago | Price +1.5% from ST line
+   50bar: 2 flips | Bullish 43/50 bars | TRENDING
+
+7. ADX: 28 MODERATE TREND | DI+: 18.1 > DI-: 15.9 | ADX stable
+   50bar: avg=27 max=36 | DI cross: bullish 19 bars ago
+
+8. StochRSI: K=42 D=67 NORMAL | K trend 15bar: stable
+   15bar: OB bars=9/15 | OS bars=0/15 | K/D crosses: 4 | TRENDING
+
+9. MFI: 55 BULLISH | Trend 20bar: stable | Avg=66
+   20bar: OB bars=0/20 | OS bars=0/20
+
+10. CMF: 0.094  BUYING | Trend 30bar: rising | Avg=0.143
+   Positive bars: 28/30 (buying dominant)
+
+11. CCMI: 22.2 | Signal: 34.1 | Cross: BELOW ↓
+   Multi-period momentum (5/10/20) volatility-weighted
+
+12. IMI: 57.1 | MA(6): 61.1 | Normal
+   Candle body pressure (close vs open) — what RSI doesn't see
+
+13. RSI-Mom: 50.7 (RSI of momentum(10) — 2nd derivative of price)
+   🟢 BULLISH DIVERGENCE: Price LL (0.086240->0.086010) but RSI-Mom HL (38.4->38.6), 22 bars ago
+
+14. ATR: 0.00059006 (0.67% of price) | Trend: rising | Percentile: 90% of 50bar range
+   EXPANDING ↑ | ADX stable: normal
+
+📐 SMC:
+📐 SMC [15m]:
+Internal Trend: BULLISH (last: BOS 6 bars ago)
+Weak High: 0.088990 (0.8% away) | Strong Low: 0.078300 (11.3% away)
+Recent Structures:
+  Int BOS Bull @ 0.087190 (45 bars ago)
+  Int CHoCH Bear @ 0.086810 (36 bars ago)
+  Int BOS Bear @ 0.086420 (22 bars ago)
+  Int CHoCH Bull @ 0.087660 (17 bars ago)
+  Int BOS Bull @ 0.088440 (6 bars ago)
+Order Blocks:
+  Int 🟦 Bull OB: 0.087340-0.087860 (0.7% below)
+  Int 🟦 Bull OB: 0.086010-0.086620 (2.2% below)
+  Int 🟦 Bull OB: 0.085630-0.085960 (2.8% below)
+  Int 🟦 Bull OB: 0.084750-0.085040 (3.8% below)
+  Int 🟦 Bull OB: 0.082770-0.083540 (5.8% below)
+Fair Value Gaps:
+  Bear FVG: 0.088350-0.088360 (0.1% away)
+  Bull FVG: 0.087690-0.087990 (0.5% away)
+  Bull FVG: 0.086720-0.087220 (1.5% away)
+  Bull FVG: 0.085040-0.085650 (3.3% away)
+Zone: Equilibrium (H:0.088990 L:0.078300 EQ:0.083645)
+
