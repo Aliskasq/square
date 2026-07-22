@@ -1,0 +1,155 @@
+📊 *DODOXUSDT* — `$0.018835`
+💰 Funding: `-0.8197%`
+📊 [MARKET POSITIONING — OI, Long/Short Ratio, Taker Volume]
+Open Interest: 174,223,550 contracts | ⚪ OI stable (+0.1%)
+Accounts L/S: ⚠️ CROWD IS SHORT (62%) — squeeze risk UP
+Top Traders: 🟢 TOP TRADERS LONG (62%) — smart money bullish
+Taker Volume: ⚪ Balanced (49% buy / 51% sell)
+
+=== 1H ===
+Price: 0.018838 | Change: +0.09% | 24h: +17.01%
+
+1. EMA: 7=0.018707(↘-3.3%/50bars) > 25=0.017935(↘-10.3%) < 99=0.018853(↘-11.3%)
+   Price>EMA7: 17/50 candles | Price>EMA25: 11/50 | Price>EMA99: 3/50 | EMA7×25 golden cross 10 bars ago
+
+2. MACD: DIF=0.000525 > DEA=0.000397 | Hist=0.000128 FADING_BULLISH
+   Cross 25 bars ago | Hist range 50bars: [-0.000177..0.000506] avg=0.000064 | Zero crosses: 1
+   Accel=0.000003 | TRENDING
+
+3. OBV: Distribution (>SMA20) | ROC(10)=-363.6% | ROC(50)=-342.6% | Trend 50bar: falling
+   Price-OBV 50bar: NO DIVERGENCE (confirmed)
+
+4. RSI: 58.2 NORMAL | Trend 50bar: rising (56.8→56.9→53.9→58.1→58.2)
+   50bar range: [7.7..75.4] avg=35.6 | OB bars: 2/50 | OS bars: 25/50
+
+5. BB: Upper=0.020584 Mid=0.017706 Lower=0.014828 | %B=0.697 | Width=32.5%
+   Squeeze: NO | Expanding: NO | Walking upper band: 5/50 candles
+   TTM Squeeze: No squeeze
+
+6. SuperTrend: 🟢 BULLISH @ 0.017674 | Flipped 11 bars ago | Price +6.6% from ST line
+   50bar: 1 flips | Bullish 11/50 bars | TRENDING
+
+7. ADX: 29 MODERATE TREND | DI+: 28.8 > DI-: 17.6 | ADX rising
+   50bar: avg=32 max=46 | DI cross: bullish 11 bars ago
+
+8. StochRSI: K=50 D=50 NORMAL | K trend 15bar: falling
+   15bar: OB bars=4/15 | OS bars=0/15 | K/D crosses: 5 | CHOPPY
+
+9. MFI: 68 BULLISH | Trend 20bar: rising | Avg=63
+   20bar: OB bars=2/20 | OS bars=0/20
+
+10. CMF: -0.150 STRONG SELLING | Trend 30bar: rising | Avg=-0.091
+   Positive bars: 8/30 (selling dominant)
+
+11. CCMI: 12.5 | Signal: 15.9 | Cross: BELOW ↓
+   Multi-period momentum (5/10/20) volatility-weighted
+
+12. IMI: 65.4 | MA(6): 65.5 | Normal
+   Candle body pressure (close vs open) — what RSI doesn't see
+
+13. RSI-Mom: 48.6 (RSI of momentum(10) — 2nd derivative of price)
+   No divergence detected
+
+14. ATR: 0.00096706 (5.13% of price) | Trend: rising | Percentile: 92% of 50bar range
+   EXPANDING ↑ | ADX rising: BREAKOUT COMBO
+
+📐 SMC:
+📐 SMC [1H]:
+Swing Trend: BEARISH (last: BOS 52 bars ago)
+Internal Trend: BULLISH (last: CHoCH 10 bars ago)
+⚠️ DIVERGENCE: Swing vs Internal trend disagree!
+Strong High: 0.025241 (34.0% away) | Weak Low: 0.015614 (17.1% away)
+Recent Structures:
+  Int BOS Bear @ 0.020798 (83 bars ago)
+  Int BOS Bear @ 0.020707 (76 bars ago)
+  Int BOS Bear @ 0.019954 (60 bars ago)
+  Swing BOS Bear @ 0.019500 (52 bars ago)
+  Int CHoCH Bull @ 0.016951 (10 bars ago)
+Order Blocks:
+  Int 🟦 Bull OB: 0.015931-0.016561 (13.8% below)
+  Int 🟥 Bear OB: 0.022173-0.023759 (21.9% above)
+  Swing 🟥 Bear OB: 0.020867-0.025241 (22.4% above)
+  Int 🟥 Bear OB: 0.022315-0.025000 (25.6% above)
+  Int 🟥 Bear OB: 0.026862-0.028148 (46.0% above)
+Fair Value Gaps:
+  Bull FVG: 0.016345-0.017270 (10.8% away)
+Zone: Equilibrium (H:0.025241 L:0.015614 EQ:0.020428)
+
+
+📊 *DODOXUSDT* — `$0.018837`
+💰 Funding: `-0.8197%`
+📊 [MARKET POSITIONING — OI, Long/Short Ratio, Taker Volume]
+Open Interest: 174,316,765 contracts | ⚪ OI stable (+0.1%)
+Accounts L/S: ⚠️ CROWD IS SHORT (62%) — squeeze risk UP
+Top Traders: 🟢 TOP TRADERS LONG (62%) — smart money bullish
+Taker Volume: ⚪ Balanced (49% buy / 51% sell)
+
+=== 15m ===
+Price: 0.018805 | Change: +0.45% | 24h: +19.22%
+
+1. EMA: 7=0.018741(↗+15.3%/50bars) > 25=0.018719(↗+14.8%) > 99=0.017889(↗+7.2%)
+   Price>EMA7: 25/50 candles | Price>EMA25: 31/50 | Price>EMA99: 42/50 | EMA7×25 golden cross 3 bars ago
+
+2. MACD: DIF=0.000019 < DEA=0.000033 | Hist=-0.000014 FADING_BEARISH
+   Cross 20 bars ago | Hist range 50bars: [-0.000318..0.000376] avg=0.000006 | Zero crosses: 3
+   Accel=0.000004 | TRENDING
+
+3. OBV: Distribution (>SMA20) | ROC(10)=+6.1% | ROC(50)=-23.0% | Trend 50bar: falling
+   Price-OBV 50bar: BEARISH DIVERGENCE ⚠️
+
+4. RSI: 51.3 NORMAL | Trend 50bar: stable (47.5→51.8→54.5→50.3→51.3)
+   50bar range: [42.9..82.8] avg=57.3 | OB bars: 11/50 | OS bars: 0/50
+
+5. BB: Upper=0.019401 Mid=0.018662 Lower=0.017923 | %B=0.597 | Width=7.9%
+   Squeeze: YES | Expanding: NO | Walking upper band: 8/50 candles
+   TTM Squeeze: ⚠️ SQUEEZE ON (2 bars) — compression building, breakout brewing
+
+6. SuperTrend: 🔴 BEARISH @ 0.020266 | Flipped 8 bars ago | Price -7.2% from ST line
+   50bar: 1 flips | Bullish 42/50 bars | TRENDING
+
+7. ADX: 22 WEAK/NO TREND | DI+: 22.2 > DI-: 13.5 | ADX stable
+   50bar: avg=32 max=50 | DI cross: bullish 15 bars ago
+
+8. StochRSI: K=74 D=79 NORMAL | K trend 15bar: rising
+   15bar: OB bars=1/15 | OS bars=9/15 | K/D crosses: 5 | CHOPPY
+
+9. MFI: 55 BULLISH | Trend 20bar: rising | Avg=46
+   20bar: OB bars=0/20 | OS bars=0/20
+
+10. CMF: -0.102 STRONG SELLING | Trend 30bar: falling | Avg=0.099
+   Positive bars: 23/30 (buying dominant)
+
+11. CCMI: -3.3 | Signal: -5.8 | Cross: ABOVE ↑
+   Multi-period momentum (5/10/20) volatility-weighted
+
+12. IMI: 48.7 | MA(6): 49.0 | Normal
+   Candle body pressure (close vs open) — what RSI doesn't see
+
+13. RSI-Mom: 52.3 (RSI of momentum(10) — 2nd derivative of price)
+   No divergence detected
+
+14. ATR: 0.00059884 (3.18% of price) | Trend: rising | Percentile: 42% of 50bar range
+   EXPANDING ↑ | ADX stable: normal
+
+📐 SMC:
+📐 SMC [15m]:
+Internal Trend: BULLISH (last: BOS 30 bars ago)
+Weak High: 0.021990 (16.9% away) | Strong Low: 0.015614 (17.0% away)
+Recent Structures:
+  Int BOS Bull @ 0.016623 (88 bars ago)
+  Int CHoCH Bear @ 0.016480 (78 bars ago)
+  Int BOS Bear @ 0.016179 (61 bars ago)
+  Int CHoCH Bull @ 0.016561 (41 bars ago)
+  Int BOS Bull @ 0.018432 (30 bars ago)
+Order Blocks:
+  Int 🟦 Bull OB: 0.016879-0.017318 (9.1% below)
+  Int 🟦 Bull OB: 0.016065-0.016168 (14.3% below)
+  Int 🟦 Bull OB: 0.015614-0.016049 (15.8% below)
+Fair Value Gaps:
+  Bull FVG: 0.017318-0.018072 (5.9% away)
+  Bull FVG: 0.016354-0.016996 (11.3% away)
+  Bull FVG: 0.015872-0.016070 (15.1% away)
+Liquidity Pools:
+  EQH @ 0.016354 (13.0% below)
+  EQL @ 0.016105 (14.4% below)
+Zone: Equilibrium (H:0.021990 L:0.015614 EQ:0.018802)
