@@ -1,0 +1,158 @@
+📊 *HYPEUSDT* — `$58.436000`
+💰 Funding: `-0.0021%`
+📊 [MARKET POSITIONING — OI, Long/Short Ratio, Taker Volume]
+Open Interest: 4,816,652 contracts | ⚪ OI stable (+5.0%)
+Accounts L/S: ⚪ Balanced (53%L / 47%S)
+Top Traders: 🟢 TOP TRADERS LONG (64%) — smart money bullish
+Taker Volume: ⚪ Balanced (52% buy / 48% sell)
+
+=== 1H ===
+Price: 58.437000 | Change: -0.37% | 24h: -6.88%
+
+1. EMA: 7=58.899433(↘-2.8%/50bars) < 25=60.061583(→-0.9%) < 99=61.130653(→flat)
+   Price>EMA7: 22/50 candles | Price>EMA25: 27/50 | Price>EMA99: 26/50 | EMA7×25 death cross 21 bars ago
+
+2. MACD: DIF=-0.819995 < DEA=-0.699411 | Hist=-0.120584 FADING_BEARISH
+   Cross 27 bars ago | Hist range 50bars: [-0.347682..0.164586] avg=-0.055796 | Zero crosses: 1
+   Accel=-0.007344 | TRENDING
+
+3. OBV: Distribution (>SMA20) | ROC(10)=-33.1% | ROC(50)=-33.8% | Trend 50bar: falling
+   Price-OBV 50bar: NO DIVERGENCE (confirmed)
+
+4. RSI: 27.4 OVERSOLD | Trend 50bar: falling (27.7→30.3→32.0→28.9→27.4)
+   50bar range: [22.9..68.1] avg=48.8 | OB bars: 0/50 | OS bars: 9/50
+
+5. BB: Upper=61.761907 Mid=59.862600 Lower=57.963293 | %B=0.125 | Width=6.3%
+   Squeeze: NO | Expanding: NO | Walking upper band: 4/50 candles
+   TTM Squeeze: No squeeze
+
+6. SuperTrend: 🔴 BEARISH @ 60.263431 | Flipped 20 bars ago | Price -3.0% from ST line
+   50bar: 1 flips | Bullish 30/50 bars | TRENDING
+
+7. ADX: 43 STRONG TREND | DI+: 11.0 < DI-: 36.4 | ADX rising
+   50bar: avg=33 max=43 | DI cross: bearish 22 bars ago
+
+8. StochRSI: K=31 D=34 NORMAL | K trend 15bar: stable
+   15bar: OB bars=0/15 | OS bars=5/15 | K/D crosses: 3 | TRENDING
+
+9. MFI: 19 BEARISH | Trend 20bar: stable | Avg=16
+   20bar: OB bars=0/20 | OS bars=15/20
+
+10. CMF: -0.014  SELLING | Trend 30bar: rising | Avg=-0.046
+   Positive bars: 5/30 (selling dominant)
+
+11. CCMI: -50.2 | Signal: -53.3 | Cross: ABOVE ↑
+   Multi-period momentum (5/10/20) volatility-weighted
+
+12. IMI: 23.7 | MA(6): 27.1 | Normal
+   Candle body pressure (close vs open) — what RSI doesn't see
+
+13. RSI-Mom: 39.1 (RSI of momentum(10) — 2nd derivative of price)
+   🟢 BULLISH DIVERGENCE: Price LL (59.879000->58.200000) but RSI-Mom HL (26.0->39.0), 5 bars ago
+
+14. ATR: 0.60723693 (1.04% of price) | Trend: stable | Percentile: 66% of 50bar range
+   STABLE → | ADX rising: normal
+
+📐 SMC:
+📐 SMC [1H]:
+Swing Trend: BEARISH (last: BOS 137 bars ago)
+Internal Trend: BEARISH (last: BOS 7 bars ago)
+Strong High: 69.042000 (18.1% away) | Weak Low: 57.930000 (0.9% away)
+Recent Structures:
+  Int CHoCH Bear @ 60.233000 (59 bars ago)
+  Int CHoCH Bull @ 61.627000 (45 bars ago)
+  Int BOS Bull @ 62.974000 (31 bars ago)
+  Int CHoCH Bear @ 62.215000 (22 bars ago)
+  Int BOS Bear @ 59.806000 (7 bars ago)
+Order Blocks:
+  Int 🟥 Bear OB: 60.745000-61.188000 (4.3% above)
+  Int 🟥 Bear OB: 62.924000-63.441000 (8.1% above)
+  Swing 🟥 Bear OB: 68.231000-69.042000 (17.5% above)
+  Int 🟥 Bear OB: 68.231000-69.042000 (17.5% above)
+Fair Value Gaps:
+  Bear FVG: 59.079000-59.968000 (1.9% away)
+  Bear FVG: 60.674000-61.386000 (4.4% away)
+  Bear FVG: 62.098000-62.111000 (6.3% away)
+  Bear FVG: 63.063000-63.867000 (8.6% away)
+Zone: Discount (H:69.042000 L:57.930000 EQ:63.486000)
+
+
+
+
+📊 *HYPEUSDT* — `$58.492000`
+💰 Funding: `-0.0021%`
+📊 [MARKET POSITIONING — OI, Long/Short Ratio, Taker Volume]
+Open Interest: 4,817,294 contracts | ⚪ OI stable (+5.0%)
+Accounts L/S: ⚪ Balanced (53%L / 47%S)
+Top Traders: 🟢 TOP TRADERS LONG (64%) — smart money bullish
+Taker Volume: ⚪ Balanced (52% buy / 48% sell)
+
+=== 15m ===
+Price: 58.488000 | Change: +0.37% | 24h: -6.51%
+
+1. EMA: 7=58.563328(↘-3.7%/50bars) < 25=58.874920(↘-3.2%) < 99=60.096691(↘-2.4%)
+   Price>EMA7: 18/50 candles | Price>EMA25: 4/50 | Price>EMA99: 0/50 | EMA7×25 death cross 41 bars ago
+
+2. MACD: DIF=-0.235734 < DEA=-0.234891 | Hist=-0.000843 SHRINKING
+   Cross 2 bars ago | Hist range 50bars: [-0.211861..0.125142] avg=-0.005422 | Zero crosses: 3
+   Accel=0.024481 | TRENDING
+
+3. OBV: Distribution (>SMA20) | ROC(10)=-75.7% | ROC(50)=-231.4% | Trend 50bar: falling
+   Price-OBV 50bar: NO DIVERGENCE (confirmed)
+
+4. RSI: 39.3 NORMAL | Trend 50bar: falling (35.9→39.5→35.1→32.6→39.3)
+   50bar range: [18.8..57.5] avg=39.0 | OB bars: 0/50 | OS bars: 9/50
+
+5. BB: Upper=59.229224 Mid=58.758950 Lower=58.288676 | %B=0.212 | Width=1.6%
+   Squeeze: NO | Expanding: YES | Walking upper band: 2/50 candles
+   TTM Squeeze: No squeeze
+
+6. SuperTrend: 🔴 BEARISH @ 59.214038 | Flipped 0 bars ago | Price -1.2% from ST line
+   50bar: 0 flips | Bullish 0/50 bars | TRENDING
+
+7. ADX: 35 MODERATE TREND | DI+: 11.9 < DI-: 28.4 | ADX rising
+   50bar: avg=35 max=50 | DI cross: bearish 47 bars ago
+
+8. StochRSI: K=14 D=11 OVERSOLD | K trend 15bar: falling
+   15bar: OB bars=9/15 | OS bars=3/15 | K/D crosses: 2 | TRENDING
+
+9. MFI: 44 BEARISH | Trend 20bar: rising | Avg=48
+   20bar: OB bars=0/20 | OS bars=1/20
+
+10. CMF: -0.048  SELLING | Trend 30bar: stable | Avg=-0.015
+   Positive bars: 13/30 (mixed)
+
+11. CCMI: -32.3 | Signal: -35.2 | Cross: ABOVE ↑
+   Multi-period momentum (5/10/20) volatility-weighted
+
+12. IMI: 39.8 | MA(6): 43.7 | Normal
+   Candle body pressure (close vs open) — what RSI doesn't see
+
+13. RSI-Mom: 46.7 (RSI of momentum(10) — 2nd derivative of price)
+   No divergence detected
+
+14. ATR: 0.29819702 (0.51% of price) | Trend: rising | Percentile: 44% of 50bar range
+   EXPANDING ↑ | ADX rising: BREAKOUT COMBO
+
+📐 SMC:
+📐 SMC [15m]:
+Swing Trend: BEARISH (last: BOS 30 bars ago)
+Internal Trend: BEARISH (last: CHoCH 38 bars ago)
+Strong High: 63.441000 (8.5% away) | Weak Low: 57.930000 (1.0% away)
+Recent Structures:
+  Int CHoCH Bear @ 62.732000 (103 bars ago)
+  Int BOS Bear @ 62.514000 (92 bars ago)
+  Int CHoCH Bull @ 60.889000 (50 bars ago)
+  Int CHoCH Bear @ 60.540000 (38 bars ago)
+  Swing BOS Bear @ 59.805000 (30 bars ago)
+Order Blocks:
+  Int 🟥 Bear OB: 60.911000-61.188000 (4.4% above)
+  Int 🟥 Bear OB: 62.775000-62.930000 (7.5% above)
+  Int 🟥 Bear OB: 62.976000-63.268000 (7.9% above)
+  Swing 🟥 Bear OB: 63.037000-63.441000 (8.1% above)
+Fair Value Gaps:
+  Bear FVG: 59.374000-59.408000 (1.5% away)
+  Bear FVG: 59.799000-60.179000 (2.6% away)
+  Bear FVG: 60.430000-60.679000 (3.5% away)
+  Bear FVG: 60.800000-61.571000 (4.6% away)
+Zone: Equilibrium (H:63.441000 L:57.930000 EQ:60.685500)
