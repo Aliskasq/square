@@ -1,0 +1,159 @@
+📊 *ACEUSDT* — `$0.088900`
+💰 Funding: `-0.0044%`
+📊 [MARKET POSITIONING — OI, Long/Short Ratio, Taker Volume]
+Open Interest: 47,161,402 contracts | 📉 OI FALLING -7.7% (positions closing — trend weakening)
+Accounts L/S: ⚪ Balanced (53%L / 47%S)
+Top Traders: ⚪ Top traders balanced (56%L / 44%S)
+Taker Volume: ⚪ Balanced (49% buy / 51% sell)
+
+=== 1H ===
+Price: 0.088920 | Change: +0.49% | 24h: -10.97%
+
+1. EMA: 7=0.090363(↘-29.2%/50bars) < 25=0.093403(↘-5.5%) > 99=0.091871(↗+17.7%)
+   Price>EMA7: 7/50 candles | Price>EMA25: 13/50 | Price>EMA99: 38/50 | EMA7×25 death cross 34 bars ago
+
+2. MACD: DIF=-0.002712 > DEA=-0.003239 | Hist=0.000527 FADING_BULLISH
+   Cross 8 bars ago | Hist range 50bars: [-0.004219..0.005048] avg=-0.001245 | Zero crosses: 2
+   Accel=0.000107 | TRENDING
+
+3. OBV: Distribution (>SMA20) | ROC(10)=+3.3% | ROC(50)=-53.3% | Trend 50bar: falling
+   Price-OBV 50bar: NO DIVERGENCE (confirmed)
+
+4. RSI: 40.5 NORMAL | Trend 50bar: falling (49.4→48.2→43.1→39.6→40.5)
+   50bar range: [28.7..82.6] avg=45.8 | OB bars: 2/50 | OS bars: 3/50
+
+5. BB: Upper=0.096592 Mid=0.091083 Lower=0.085574 | %B=0.304 | Width=12.1%
+   Squeeze: YES | Expanding: NO | Walking upper band: 0/50 candles
+   TTM Squeeze: ⚠️ SQUEEZE ON (5 bars) — compression building, breakout brewing
+
+6. SuperTrend: 🔴 BEARISH @ 0.097879 | Flipped 33 bars ago | Price -9.2% from ST line
+   50bar: 1 flips | Bullish 17/50 bars | TRENDING
+
+7. ADX: 20 WEAK/NO TREND | DI+: 23.3 > DI-: 20.2 | ADX falling
+   50bar: avg=33 max=64 | DI cross: bullish 5 bars ago
+
+8. StochRSI: K=60 D=73 NORMAL | K trend 15bar: rising
+   15bar: OB bars=4/15 | OS bars=7/15 | K/D crosses: 2 | TRENDING
+
+9. MFI: 37 BEARISH | Trend 20bar: stable | Avg=32
+   20bar: OB bars=0/20 | OS bars=2/20
+
+10. CMF: -0.357 STRONG SELLING | Trend 30bar: falling | Avg=-0.206
+   Positive bars: 0/30 (selling dominant)
+
+11. CCMI: -6.6 | Signal: 0.3 | Cross: BELOW ↓
+   Multi-period momentum (5/10/20) volatility-weighted
+
+12. IMI: 44.2 | MA(6): 41.8 | Normal
+   Candle body pressure (close vs open) — what RSI doesn't see
+
+13. RSI-Mom: 57.6 (RSI of momentum(10) — 2nd derivative of price)
+   🟢 BULLISH DIVERGENCE: Price LL (0.100060->0.089960) but RSI-Mom HL (36.4->46.0), 13 bars ago
+
+14. ATR: 0.00435383 (4.90% of price) | Trend: falling | Percentile: 8% of 50bar range
+   CONTRACTING ↓ | ADX falling: normal
+
+📐 SMC:
+📐 SMC [1H]:
+Swing Trend: BULLISH (last: CHoCH 63 bars ago)
+Internal Trend: BEARISH (last: BOS 22 bars ago)
+⚠️ DIVERGENCE: Swing vs Internal trend disagree!
+Weak High: 0.152970 (72.0% away) | Strong Low: 0.061400 (30.9% away)
+Recent Structures:
+  Int CHoCH Bear @ 0.066580 (88 bars ago)
+  Swing CHoCH Bull @ 0.073660 (63 bars ago)
+  Int CHoCH Bull @ 0.083900 (62 bars ago)
+  Int CHoCH Bear @ 0.116160 (39 bars ago)
+  Int BOS Bear @ 0.096580 (22 bars ago)
+Order Blocks:
+  Int 🟥 Bear OB: 0.099590-0.103550 (14.2% above)
+  Swing 🟦 Bull OB: 0.061400-0.063170 (30.0% below)
+  Int 🟦 Bull OB: 0.061400-0.063170 (30.0% below)
+  Int 🟥 Bear OB: 0.139580-0.127000 (49.9% above)
+Fair Value Gaps:
+  Bear FVG: 0.091810-0.092130 (3.4% away)
+  Bull FVG: 0.078320-0.083540 (9.0% away)
+  Bull FVG: 0.073250-0.075250 (16.5% away)
+  Bear FVG: 0.104210-0.106180 (18.3% away)
+Zone: Equilibrium (H:0.152970 L:0.061400 EQ:0.107185)
+
+
+📊 *ACEUSDT* — `$0.088990`
+💰 Funding: `-0.0044%`
+📊 [MARKET POSITIONING — OI, Long/Short Ratio, Taker Volume]
+Open Interest: 47,164,722 contracts | 📉 OI FALLING -7.7% (positions closing — trend weakening)
+Accounts L/S: ⚪ Balanced (53%L / 47%S)
+Top Traders: ⚪ Top traders balanced (56%L / 44%S)
+Taker Volume: ⚪ Balanced (49% buy / 51% sell)
+
+=== 15m ===
+Price: 0.089030 | Change: -0.92% | 24h: -12.49%
+
+1. EMA: 7=0.089841(↘-2.4%/50bars) < 25=0.091129(↘-2.5%) < 99=0.094067(↘-5.6%)
+   Price>EMA7: 15/50 candles | Price>EMA25: 17/50 | Price>EMA99: 3/50 | EMA7×25 death cross 7 bars ago
+
+2. MACD: DIF=-0.000660 < DEA=-0.000187 | Hist=-0.000473 FADING_BEARISH
+   Cross 11 bars ago | Hist range 50bars: [-0.000574..0.001009] avg=0.000079 | Zero crosses: 4
+   Accel=-0.000056 | TRENDING
+
+3. OBV: Distribution (>SMA20) | ROC(10)=+1.4% | ROC(50)=-10.7% | Trend 50bar: stable
+   Price-OBV 50bar: NO DIVERGENCE (confirmed)
+
+4. RSI: 43.2 NORMAL | Trend 50bar: rising (43.2→40.8→42.5→45.4→43.2)
+   50bar range: [25.9..70.4] avg=45.7 | OB bars: 1/50 | OS bars: 3/50
+
+5. BB: Upper=0.097387 Mid=0.092145 Lower=0.086903 | %B=0.203 | Width=11.4%
+   Squeeze: NO | Expanding: YES | Walking upper band: 4/50 candles
+   TTM Squeeze: No squeeze
+
+6. SuperTrend: 🟢 BULLISH @ 0.087263 | Flipped 31 bars ago | Price +2.0% from ST line
+   50bar: 1 flips | Bullish 31/50 bars | TRENDING
+
+7. ADX: 20 WEAK/NO TREND | DI+: 19.0 < DI-: 19.7 | ADX falling
+   50bar: avg=31 max=38 | DI cross: bearish 1 bars ago
+
+8. StochRSI: K=18 D=11 OVERSOLD | K trend 15bar: falling
+   15bar: OB bars=0/15 | OS bars=11/15 | K/D crosses: 1 | TRENDING
+
+9. MFI: 28 BEARISH | Trend 20bar: falling | Avg=48
+   20bar: OB bars=0/20 | OS bars=0/20
+
+10. CMF: 0.114 STRONG BUYING | Trend 30bar: rising | Avg=0.088
+   Positive bars: 28/30 (buying dominant)
+
+11. CCMI: -19.5 | Signal: -22.5 | Cross: ABOVE ↑
+   Multi-period momentum (5/10/20) volatility-weighted
+
+12. IMI: 29.8 | MA(6): 34.9 | Normal
+   Candle body pressure (close vs open) — what RSI doesn't see
+
+13. RSI-Mom: 46.2 (RSI of momentum(10) — 2nd derivative of price)
+   No divergence detected
+
+14. ATR: 0.00210444 (2.36% of price) | Trend: rising | Percentile: 48% of 50bar range
+   EXPANDING ↑ | ADX falling: normal
+
+📐 SMC:
+📐 SMC [15m]:
+Internal Trend: BEARISH (last: CHoCH 3 bars ago)
+Strong High: 0.152970 (71.8% away) | Weak Low: 0.075430 (15.3% away)
+Recent Structures:
+  Int BOS Bear @ 0.095280 (76 bars ago)
+  Int BOS Bear @ 0.093210 (59 bars ago)
+  Int CHoCH Bull @ 0.088460 (34 bars ago)
+  Int BOS Bull @ 0.095940 (18 bars ago)
+  Int CHoCH Bear @ 0.089270 (3 bars ago)
+Order Blocks:
+  Int 🟥 Bear OB: 0.092750-0.098840 (7.6% above)
+  Int 🟥 Bear OB: 0.101240-0.103320 (14.9% above)
+  Int 🟥 Bear OB: 0.108310-0.112440 (24.0% above)
+  Int 🟥 Bear OB: 0.111930-0.118340 (29.3% above)
+  Int 🟥 Bear OB: 0.131620-0.139580 (52.3% above)
+Fair Value Gaps:
+  Bull FVG: 0.087350-0.090200 (0.3% away)
+Liquidity Pools:
+  EQL @ 0.086345 (3.0% below)
+Zone: Equilibrium (H:0.152970 L:0.075430 EQ:0.114200)
+
+
+
